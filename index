@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Photography Portfolio</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 20px; }
+        h1 { text-align: center; }
+        .gallery { display: flex; flex-wrap: wrap; justify-content: center; }
+        .gallery img { width: 300px; height: auto; margin: 10px; object-fit: cover; }
+    </style>
+</head>
+<body>
+    <h1>Your Name - Photography Portfolio</h1>
+    <div class="gallery">
+        <!-- You'll add your images here -->
+    </div>
+</body>
+</html>
