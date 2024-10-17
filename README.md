@@ -8,7 +8,7 @@ This portfolio is built using GitHub Pages to display a collection of my best ph
 
 ## Viewing the Portfolio
 
-Visit [https://yourusername.github.io](https://yourusername.github.io) to view the live portfolio.
+Visit [https://jeremyhur.github.io](https://jeremyhur.github.io) to view the live portfolio.
 
 ## Technologies Used
 
