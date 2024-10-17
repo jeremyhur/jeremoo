@@ -15,6 +15,7 @@
     <h1>Your Name - Photography Portfolio</h1>
     <div class="gallery">
         <!-- You'll add your images here -->
+        <img src="IMG_1347.jpg" alt="Baby Racoon">
     </div>
 </body>
 </html>
